@@ -1,8 +1,8 @@
 
 <img width="722" height="515" alt="awesome sauce" src="https://github.com/user-attachments/assets/563741a0-533b-4706-99aa-c182354634d9" />
 
-# Resume
-## DILLON MOORE
+
+##                                                                                                            DILLON MOORE
 
 ## 2308 Ballast Court • Chesapeake, VA 23323
 
