@@ -1,33 +1,7 @@
----
-__Advertisement :)__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
 <img width="722" height="515" alt="awesome sauce" src="https://github.com/user-attachments/assets/563741a0-533b-4706-99aa-c182354634d9" />
 
-                # Resume
+# Resume
 ## DILLON MOORE
 
 ## 2308 Ballast Court • Chesapeake, VA 23323
