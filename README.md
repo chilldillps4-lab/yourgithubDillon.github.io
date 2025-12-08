@@ -69,99 +69,6 @@ Completed Spring Boot for Beginners course for understanding Java-based backend 
 Wrote a full 2-page review of the Resource Providers of Science Gateways webinar.
 Watched and analyzed the SGX3 webinar “Turn Your Data Portal into a Science Gateway With Globus Compute” and produced a 2-page summary with questions and quotes.
 Created a GitHub Portfolio Page showcasing résumé, professional photo, personal statement, and social media links.
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
 
 ## Links
 
@@ -172,6 +79,7 @@ www.linkedin.com/in/dillon-moore-46b411386
 
 ## Images
 ![Screenshot_8-12-2025_175121_www bing com](https://github.com/user-attachments/assets/c8a354b2-a753-401a-8efe-b2c8f3becb59) 
+
 <img width="263" height="171" alt="Screenshot 2025-12-08 182514" src="https://github.com/user-attachments/assets/88be0e77-f5b8-451c-b1d5-a61d33d7e43a" />
 
 
