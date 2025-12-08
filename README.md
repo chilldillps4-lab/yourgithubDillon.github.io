@@ -185,7 +185,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
 ## Images
-
+![Screenshot_8-12-2025_175121_www bing com](https://github.com/user-attachments/assets/c8a354b2-a753-401a-8efe-b2c8f3becb59)
 ![Minion](https://octodex.github.com/images/minion.png)
 <img width="378" height="481" alt="Screenshot_8-12-2025_17489_www bing" src="https://github.com/user-attachments/assets/fb4afca4-93ea-4995-b60f-60c15f2d6652" />
 
