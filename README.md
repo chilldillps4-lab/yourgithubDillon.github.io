@@ -1,4 +1,4 @@
-
+title: Dillon's sgx3
 Dillon Moore
 2308 Ballast Court
 Chesapeake, VA 23323
@@ -53,7 +53,4 @@ Robotics Club & Competitions
 Camera Operator – Deep Creek New Life Church
 Black History Month Committee – Event Organizer
 Worked at Bingo Ring Events
-
-
-title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
