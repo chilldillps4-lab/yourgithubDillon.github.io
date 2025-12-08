@@ -91,6 +91,3 @@ Like links, Images also have a footnote style syntax
 ![Screenshot_8-12-2025_18853_www bing com](https://github.com/user-attachments/assets/144be275-87bd-4045-a93d-86c0168296c6)
 
 
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
