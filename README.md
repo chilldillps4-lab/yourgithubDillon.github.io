@@ -165,7 +165,7 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+www.linkedin.com/in/dillon-moore-46b411386 
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
