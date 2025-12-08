@@ -180,7 +180,8 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 Like links, Images also have a footnote style syntax
 
-![Alt text][id]
+![Screenshot_8-12-2025_18853_www bing com](https://github.com/user-attachments/assets/144be275-87bd-4045-a93d-86c0168296c6)
+
 
 With a reference later in the document defining the URL location:
 
