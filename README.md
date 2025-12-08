@@ -176,7 +176,8 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ![Screenshot_8-12-2025_175121_www bing com](https://github.com/user-attachments/assets/c8a354b2-a753-401a-8efe-b2c8f3becb59)
 ![Screenshot_8-12-2025_175311_www bing com](https://github.com/user-attachments/assets/a2be6926-0f6b-406c-ad06-d3ed4c560bc4)
 
-<img width="378" height="481" alt="Screenshot_8-12-2025_17489_www bing" src="https://github.com/user-attachments/assets/fb4afca4-93ea-4995-b60f-60c15f2d6652" />
+![Screenshot_8-12-2025_181110_www bing com](https://github.com/user-attachments/assets/4dce0dab-c9c2-478e-9d67-279cd4f692ed)
+
 
 Like links, Images also have a footnote style syntax
 
