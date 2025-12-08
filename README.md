@@ -187,7 +187,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
-(https://www.bing.com/images/search?view=detailV2&ccid=QXz3rozn&id=8BF52339700EAD72C6AB90F2BFE36443AFBB42C7&thid=OIP.QXz3roznTCntTcfud0fiBQHaLk&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f8a%2fe8%2f27%2f8ae827ff0a580e1377e95192fdebb069.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.417cf7ae8ce74c29ed4dc7ee7747e205%3frik%3dx0K7r0Nk47%252fykA%26pid%3dImgRaw%26r%3d0&exph=1000&expw=640&q=chibi+killua&FORM=IRPRST&ck=C39C0B046F4DAA53095B0E9C0E3B7FF6&selectedIndex=2&itb=1)
+![killua](https://www.bing.com/images/search?view=detailV2&ccid=QXz3rozn&id=8BF52339700EAD72C6AB90F2BFE36443AFBB42C7&thid=OIP.QXz3roznTCntTcfud0fiBQHaLk&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f8a%2fe8%2f27%2f8ae827ff0a580e1377e95192fdebb069.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.417cf7ae8ce74c29ed4dc7ee7747e205%3frik%3dx0K7r0Nk47%252fykA%26pid%3dImgRaw%26r%3d0&exph=1000&expw=640&q=chibi+killua&FORM=IRPRST&ck=C39C0B046F4DAA53095B0E9C0E3B7FF6&selectedIndex=2&itb=1)
 
 Like links, Images also have a footnote style syntax
 
