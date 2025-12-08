@@ -54,6 +54,6 @@ Camera Operator – Deep Creek New Life Church
 Black History Month Committee – Event Organizer
 Worked at Bingo Ring Events
 
-theme: jekyll-theme-minimal
+
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
