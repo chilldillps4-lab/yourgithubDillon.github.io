@@ -8,15 +8,15 @@
 
 ## 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
-## PROFILE
+### PROFILE
 Motivated and service-minded student seeking entry-level opportunities to develop professionally while contributing strong leadership, technical expertise, and communication skills. Passionate about youth mentorship, emerging technology, community service, and creative arts.
 
-## EDUCATION
+### EDUCATION
 Grassfield High School, Chesapeake, VA
  Anticipated Graduation: June 2024
 Dual Enrollment, Tidewater Community College (TCC)
 
-## WORK EXPERIENCE
+### WORK EXPERIENCE
 Grow Your Work Base — IT Assistant / Camp Counselor / Maintenance Leader
 Chesapeake, VA | July – August 2022
 Repaired and maintained computers and smart boards; labeled and tracked equipment using barcode systems.
@@ -35,7 +35,7 @@ Assisted public art programming and visitor engagement.
 Prepared exhibit spaces and facilitated creative activities for children.
 Helped maintain respectful interaction between visitors and museum exhibits.
 
-## CERTIFICATIONS & SKILLS
+### CERTIFICATIONS & SKILLS
 Microsoft Word Certification
 W!se Financial Literacy Certification
 IT Setup & Troubleshooting (Computers, Smartboards)
@@ -45,7 +45,7 @@ Public Speaking & Youth Leadership
 Team Collaboration & Mentorship
 Basic Linux, Bash, Git, and Terminal Operations
 
-## ACTIVITIES & AWARDS
+### ACTIVITIES & AWARDS
 Vice President, Black Engineers Club
 DECA – Business & Marketing Member
 Student Physicians Program
@@ -58,7 +58,7 @@ Camera Operator, Deep Creek New Life Church
 Event Organizer, Black History Month Committee
 Volunteer, Bingo Ring Community Events
 
-## PROFESSIONAL DEVELOPMENT & TECHNICAL TRAINING
+### PROFESSIONAL DEVELOPMENT & TECHNICAL TRAINING
 Completed Terminal, Bash & VIM Essentials training (Amigoscode).
 Completed Git & GitHub Fundamentals course used for project collaboration and hackathons.
 Completed CANVA Design Skills for Students certification for professional-grade visual and presentation design.
@@ -70,7 +70,7 @@ Wrote a full 2-page review of the Resource Providers of Science Gateways webinar
 Watched and analyzed the SGX3 webinar “Turn Your Data Portal into a Science Gateway With Globus Compute” and produced a 2-page summary with questions and quotes.
 Created a GitHub Portfolio Page showcasing résumé, professional photo, personal statement, and social media links.
 
-## Links
+### Links
 
 www.linkedin.com/in/dillon-moore-46b411386 
 
