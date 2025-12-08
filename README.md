@@ -75,19 +75,3 @@ Created a GitHub Portfolio Page showcasing résumé, professional photo, persona
 www.linkedin.com/in/dillon-moore-46b411386 
 
 
-
-
-## Images
-![Screenshot_8-12-2025_175121_www bing com](https://github.com/user-attachments/assets/c8a354b2-a753-401a-8efe-b2c8f3becb59) 
-
-<img width="263" height="171" alt="Screenshot 2025-12-08 182514" src="https://github.com/user-attachments/assets/88be0e77-f5b8-451c-b1d5-a61d33d7e43a" />
-
-
-![Screenshot_8-12-2025_181110_www bing com](https://github.com/user-attachments/assets/4dce0dab-c9c2-478e-9d67-279cd4f692ed)
-
-
-Like links, Images also have a footnote style syntax
-
-![Screenshot_8-12-2025_18853_www bing com](https://github.com/user-attachments/assets/144be275-87bd-4045-a93d-86c0168296c6)
-
-
