@@ -27,60 +27,71 @@ ___
 ***
 <img width="722" height="515" alt="awesome sauce" src="https://github.com/user-attachments/assets/563741a0-533b-4706-99aa-c182354634d9" />
 ## Resume
-Dillon Moore
-2308 Ballast Court
-Chesapeake, VA 23323
-📞 (757) 386-6177
-📧 demoore814@students.ecsu.edu
+DILLON MOORE
+2308 Ballast Court • Chesapeake, VA 23323
+ 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
-About me
- I am a motivated and service-oriented student seeking entry-level opportunities to grow professionally while contributing strong leadership, technical, and communication skills. Passionate about youth mentorship, technology, and creative arts.
+## PROFILE
+Motivated and service-minded student seeking entry-level opportunities to develop professionally while contributing strong leadership, technical expertise, and communication skills. Passionate about youth mentorship, emerging technology, community service, and creative arts.
 
-Education
+## EDUCATION
 Grassfield High School, Chesapeake, VA
-Anticipated Graduation: June 2024
-Dual Enrollment – Tidewater Community College (TCC)
+ Anticipated Graduation: June 2024
+Dual Enrollment, Tidewater Community College (TCC)
 
-Work Experience
-Grow Your Work Base – IT Assistant / Camp Counselor / Maintenance Leader
+## WORK EXPERIENCE
+Grow Your Work Base — IT Assistant / Camp Counselor / Maintenance Leader
 Chesapeake, VA | July – August 2022
-Maintained and repaired computers and smart boards; labeled and tracked equipment using barcodes.
-Distributed and inspected computers for functionality; ensured all devices were operational.
-Led maintenance efforts at Christian summer camp, including cleaning, organizing supplies, and minor repairs.
-Supervised children in nature activities, gym, team games, and cabin responsibilities.
-Taught Bible lessons and shared the gospel with children and teens.
-Guided campers in understanding faith and community building through positive mentorship.
-Dance Theatre of Coastal Virginia – Support Staff
+Repaired and maintained computers and smart boards; labeled and tracked equipment using barcode systems.
+Distributed, inspected, and certified computers for functionality, ensuring all devices were fully operational.
+Led maintenance responsibilities for Christian summer camp facilities, including cleaning, organizing materials, and performing minor repairs.
+Supervised children during outdoor activities, team sports, and daily cabin routines.
+Taught Bible lessons, shared faith-based messages, and supported youth through positive mentorship and community-building guidance.
+Dance Theatre of Coastal Virginia — Support Staff
 Norfolk, VA | Seasonal
-Provided backstage support for performances and rehearsals.
-Assisted with set changes, costumes, and event preparation.
-Maintained clean and organized studio space for dancers and staff.
-Art Museum Volunteer (Unspecified)
+Provided backstage assistance for rehearsals and performances.
+Supported set changes, costume coordination, and event preparations.
+Helped maintain clean, organized studio and performance spaces.
+Art Museum Volunteer
 Chesapeake, VA | Volunteer
-Supported public art programs and visitor engagement.
-Helped set up exhibits and facilitated creative activities for children.
-Ensured respectful interaction with museum exhibits and spaces.
+Assisted public art programming and visitor engagement.
+Prepared exhibit spaces and facilitated creative activities for children.
+Helped maintain respectful interaction between visitors and museum exhibits.
 
-Certifications & Skills
+## CERTIFICATIONS & SKILLS
 Microsoft Word Certification
 W!se Financial Literacy Certification
-Computer & Smartboard Setup / IT Troubleshooting
+IT Setup & Troubleshooting (Computers, Smartboards)
 Robotics Design & Engineering
-Strong verbal communication & public speaking
-Team leadership & mentorship
+Technical Writing & Reporting
+Public Speaking & Youth Leadership
+Team Collaboration & Mentorship
+Basic Linux, Bash, Git, and Terminal Operations
 
-Activities & Awards
+## ACTIVITIES & AWARDS
 Vice President, Black Engineers Club
-Member, DECA (Business & Marketing)
+DECA – Business & Marketing Member
 Student Physicians Program
-Grow Your Own Work Base – IT Program
-Lacrosse Team
+IT Student, Grow Your Own Work Base Program
+Lacrosse Team Member
 Y-Street Health Advocacy Member
 Christian Summer Camp Counselor
-Robotics Club & Competitions
-Camera Operator – Deep Creek New Life Church
-Black History Month Committee – Event Organizer
-Worked at Bingo Ring Events
+Robotics Club Competitor
+Camera Operator, Deep Creek New Life Church
+Event Organizer, Black History Month Committee
+Volunteer, Bingo Ring Community Events
+
+## PROFESSIONAL DEVELOPMENT & TECHNICAL TRAINING
+Completed Terminal, Bash & VIM Essentials training (Amigoscode).
+Completed Git & GitHub Fundamentals course used for project collaboration and hackathons.
+Completed CANVA Design Skills for Students certification for professional-grade visual and presentation design.
+Set up professional Slack profile with introduction and onboarding training.
+Completed Bandit Report and Command Cheat Sheet assignment covering Linux navigation and cybersecurity basics.
+Created and established a LinkedIn professional profile, including connection to Science Gateways (SGCI/SGX3).
+Completed Spring Boot for Beginners course for understanding Java-based backend development.
+Wrote a full 2-page review of the Resource Providers of Science Gateways webinar.
+Watched and analyzed the SGX3 webinar “Turn Your Data Portal into a Science Gateway With Globus Compute” and produced a 2-page summary with questions and quotes.
+Created a GitHub Portfolio Page showcasing résumé, professional photo, personal statement, and social media links.
 ## Emphasis
 
 **This is bold text**
