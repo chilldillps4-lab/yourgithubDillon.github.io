@@ -172,7 +172,8 @@ www.linkedin.com/in/dillon-moore-46b411386
 
 ## Images
 ![Screenshot_8-12-2025_175121_www bing com](https://github.com/user-attachments/assets/c8a354b2-a753-401a-8efe-b2c8f3becb59) 
-![Screenshot_8-12-2025_175311_www bing com](https://github.com/user-attachments/assets/a2be6926-0f6b-406c-ad06-d3ed4c560bc4)
+<img width="263" height="171" alt="Screenshot 2025-12-08 182514" src="https://github.com/user-attachments/assets/88be0e77-f5b8-451c-b1d5-a61d33d7e43a" />
+
 
 ![Screenshot_8-12-2025_181110_www bing com](https://github.com/user-attachments/assets/4dce0dab-c9c2-478e-9d67-279cd4f692ed)
 
