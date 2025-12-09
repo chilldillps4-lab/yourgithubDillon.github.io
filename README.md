@@ -33,7 +33,7 @@ Assisted public art programming and visitor engagement.
 Prepared exhibit spaces and facilitated creative activities for children.
 Helped maintain respectful interaction between visitors and museum exhibits.
 
-### $${\color{\#006400} \text{CERTIFICATIONS & SKILLS}}$$
+### $${\color{\#006400} \text{CERTIFICATIONS and SKILLS}}$$
 Microsoft Word Certification
 W!se Financial Literacy Certification
 IT Setup & Troubleshooting (Computers, Smartboards)
@@ -43,7 +43,7 @@ Public Speaking & Youth Leadership
 Team Collaboration & Mentorship
 Basic Linux, Bash, Git, and Terminal Operations
 
-### $${\color{\#006400} \text{ACTIVITIES & AWARDS}}$$
+### $${\color{\#006400} \text{ACTIVITIES and AWARDS}}$$
 Vice President, Black Engineers Club
 DECA – Business & Marketing Member
 Student Physicians Program
@@ -56,7 +56,7 @@ Camera Operator, Deep Creek New Life Church
 Event Organizer, Black History Month Committee
 Volunteer, Bingo Ring Community Events
 
-### $${\color{\#006400} \text{PROFESSIONAL DEVELOPMENT & TECHNICAL TRAINING}}$$ <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
+### $${\color{\#006400} \text{PROFESSIONAL DEVELOPMENT and TECHNICAL TRAINING}}$$ <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 
 Completed Terminal, Bash & VIM Essentials training (Amigoscode).
 Completed Git & GitHub Fundamentals course used for project collaboration and hackathons.
