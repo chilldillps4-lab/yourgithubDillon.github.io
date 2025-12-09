@@ -6,15 +6,15 @@
 
 ## 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
-### PROFILE
+### PROFILE <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 Motivated and service-minded student seeking entry-level opportunities to develop professionally while contributing strong leadership, technical expertise, and communication skills. Passionate about youth mentorship, emerging technology, community service, and creative arts.
 
-### EDUCATION
+### EDUCATION <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 Grassfield High School, Chesapeake, VA
  Anticipated Graduation: June 2024
 Dual Enrollment, Tidewater Community College (TCC)
 
-### WORK EXPERIENCE
+### WORK EXPERIENCE <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 Grow Your Work Base — IT Assistant / Camp Counselor / Maintenance Leader
 Chesapeake, VA | July – August 2022
 Repaired and maintained computers and smart boards; labeled and tracked equipment using barcode systems.
@@ -33,7 +33,7 @@ Assisted public art programming and visitor engagement.
 Prepared exhibit spaces and facilitated creative activities for children.
 Helped maintain respectful interaction between visitors and museum exhibits.
 
-### CERTIFICATIONS & SKILLS
+### CERTIFICATIONS & SKILLS <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 Microsoft Word Certification
 W!se Financial Literacy Certification
 IT Setup & Troubleshooting (Computers, Smartboards)
@@ -43,7 +43,7 @@ Public Speaking & Youth Leadership
 Team Collaboration & Mentorship
 Basic Linux, Bash, Git, and Terminal Operations
 
-### ACTIVITIES & AWARDS
+### ACTIVITIES & AWARDS <img width="50" height="60" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
 Vice President, Black Engineers Club
 DECA – Business & Marketing Member
 Student Physicians Program
