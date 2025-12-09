@@ -6,7 +6,7 @@
 
 ## 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
-### PROFILE
+### $${\color{\#006400} \text{PROFILE}}$$
 Motivated and service-minded student seeking entry-level opportunities to develop professionally while contributing strong leadership, technical expertise, and communication skills. Passionate about youth mentorship, emerging technology, community service, and creative arts.
 
 ### EDUCATION 
