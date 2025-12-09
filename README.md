@@ -68,6 +68,8 @@ Wrote a full 2-page review of the Resource Providers of Science Gateways webinar
 Watched and analyzed the SGX3 webinar “Turn Your Data Portal into a Science Gateway With Globus Compute” and produced a 2-page summary with questions and quotes.
 Created a GitHub Portfolio Page showcasing résumé, professional photo, personal statement, and social media links.
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ajaq6hajaq6hajaq" src="https://github.com/user-attachments/assets/a883143c-b091-4de4-87af-0489277c1adb" />
+
 ### Links
 
 www.linkedin.com/in/dillon-moore-46b411386 
