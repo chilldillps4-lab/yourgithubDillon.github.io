@@ -2,7 +2,7 @@
 <img width="549" height="603" alt="awesome sauce" src="https://github.com/user-attachments/assets/563741a0-533b-4706-99aa-c182354634d9" />
 
 
-## $${\color{\#32CD32} \text{DILLON MOORE}}$$
+## $${\color{\#006400} \text{DILLON MOORE}}$$
 
 ## 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
