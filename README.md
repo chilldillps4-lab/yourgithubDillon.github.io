@@ -14,7 +14,7 @@ Grassfield High School, Chesapeake, VA
  Anticipated Graduation: June 2024
 Dual Enrollment, Tidewater Community College (TCC)
 
-### $${\color{\#006400} \text{WORK EXPERIENCE}}$$
+### WORK EXPERIENCE
 Grow Your Work Base — IT Assistant / Camp Counselor / Maintenance Leader
 Chesapeake, VA | July – August 2022
 Repaired and maintained computers and smart boards; labeled and tracked equipment using barcode systems.
