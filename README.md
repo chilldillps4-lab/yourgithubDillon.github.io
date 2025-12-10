@@ -2,14 +2,14 @@
 <img width="549" height="603" alt="awesome sauce" src="https://github.com/user-attachments/assets/563741a0-533b-4706-99aa-c182354634d9" />
 
 
-## $${\color{\#006400} \text{DILLON MOORE}}$$
+## DILLON MOORE
 
 ## 📞 (757) 386-6177 • 📧 demoore814@students.ecsu.edu
 
-### $${\color{\#006400} \text{PROFILE}}$$
+### PROFILE
 Motivated and service-minded student seeking entry-level opportunities to develop professionally while contributing strong leadership, technical expertise, and communication skills. Passionate about youth mentorship, emerging technology, community service, and creative arts.
 
-### $${\color{\#006400} \text{Education}}$$
+### Education
 Grassfield High School, Chesapeake, VA
  Anticipated Graduation: June 2024
 Dual Enrollment, Tidewater Community College (TCC)
